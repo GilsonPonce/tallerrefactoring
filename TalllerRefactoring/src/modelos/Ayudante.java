@@ -2,7 +2,7 @@ package modelos;
 
 import java.util.ArrayList;
 
-public class Ayudante {
+public class Ayudante{
     protected Estudiante est;
     public ArrayList<Paralelo> paralelos;
 
